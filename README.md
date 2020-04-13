@@ -13,15 +13,23 @@ User will learn following things through this workshop.
 
 4. < Appendix > Automate evaluation work on DevCloud - [automated-testing.ipynb](./automated-testing.ipynb)
 
-## Demo
-
-## VS.
+## How to use
+1. Go to DevCloud for the Edge web page, sign-up and get an account
+[DevCloud for the Edge web page](https://devcloud.intel.com/edge/)
+2. Sign-in to the DevCloud for the Edge
+3. Go to 'Advanced' - 'Connect and Create'
+4. Open Jupyter notebook or JupyterLab (your choice)
+5. Open a new terminal in Jupyter 'New' - 'Terminal'
+6. Clone repository
+~~~shell
+$ git clone https://github.com/yas-sim/devcloud-workshop-en
+~~~
+7. Open `devcloud-workshop-en/START-HERE.ipynb` to start the workshop
 
 ## Requirement
-
-## Usage
-
-## Install
+This workshop is intended to be work on [Intel DevCloud for the Edge](https://devcloud.intel.com/edge/).
+This workshop requires [Intel distribution of OpenVINO toolkit](https://software.intel.com/en-us/openvino-toolkit
+).
 
 ## Contribution
 
