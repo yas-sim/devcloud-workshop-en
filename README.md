@@ -6,12 +6,12 @@ Intel DevCloud is a cloud service provided by Intel. Many edge computing systems
 [DevCloud for the Edge web page](https://devcloud.intel.com/edge/)
 
 User will learn following things through this workshop.  
-0.  Basic operation of Jupyter notebook - [jupyter-basic.ipynb](./jupyter-basic.ipynb)
-1.  Basic operation and principle of DevCloud - [devcloud-basic.ipynb](./devcloud-basic.ipynb)
-2.  How to run OpenVINO Benchmark on DevCloud - [benchmarking.ipynb](./benchmarking.ipynb)
-3.  How to develop a C++ project using OpenVINO and run it on DevCloud - [cpp-project.ipynb](./cpp-project.ipynb)
+1.  Basic operation of Jupyter notebook - [jupyter-basic.ipynb](./jupyter-basic.ipynb)
+2.  Basic operation and principle of DevCloud - [devcloud-basic.ipynb](./devcloud-basic.ipynb)
+3.  How to run OpenVINO Benchmark on DevCloud - [benchmarking.ipynb](./benchmarking.ipynb)
+4.  How to develop a C++ project using OpenVINO and run it on DevCloud - [cpp-project.ipynb](./cpp-project.ipynb)
 
-4. < Appendix > Automate evaluation work on DevCloud - [automated-testing.ipynb](./automated-testing.ipynb)
+5. < Appendix > Automate evaluation work on DevCloud - [automated-testing.ipynb](./automated-testing.ipynb)
 
 ## How to use
 1. Go to [DevCloud for the Edge web page](https://devcloud.intel.com/edge/), sign-up and get an account
