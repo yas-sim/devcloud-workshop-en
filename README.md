@@ -14,8 +14,7 @@ User will learn following things through this workshop.
 4. < Appendix > Automate evaluation work on DevCloud - [automated-testing.ipynb](./automated-testing.ipynb)
 
 ## How to use
-1. Go to DevCloud for the Edge web page, sign-up and get an account
-[DevCloud for the Edge web page](https://devcloud.intel.com/edge/)
+1. Go to [DevCloud for the Edge web page](https://devcloud.intel.com/edge/), sign-up and get an account
 2. Sign-in to the DevCloud for the Edge
 3. Go to 'Advanced' - 'Connect and Create'
 4. Open Jupyter notebook or JupyterLab (your choice)
